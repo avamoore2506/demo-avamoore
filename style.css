@@ -1,0 +1,17 @@
+body {
+  background-color: pink; 
+  font-family: Arial, times-new-roman;
+  margin: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: navy; 
+  text-align: center;
+  text-decoration: underline overline white wavy;
+}
+
+p {
+  line-height: 1.5; 
+  color: navy;
+}
